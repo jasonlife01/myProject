@@ -11,4 +11,5 @@ gong xi fa cai
 
 -- 
 New branch
---new
+
+git .. haiz
