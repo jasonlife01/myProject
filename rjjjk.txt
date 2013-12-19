@@ -4,8 +4,4 @@ jason here again
 justin was here too
 Merry Christmas
 Happy New year justin
-<<<<<<< HEAD
-KianHwee look so serious
-=======
 jonathan look so slack
->>>>>>> 2bce392df0cddd87fff0b66f5b81c203604e8800
